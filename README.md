@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @KoalisMe
+- 👋 Hi, I’m Oleg
 - 👨🏻‍💻 I'm iOS Software Engineer
-- 👀 I’m interested in NFT
 
 <!---
 KoalisMe/KoalisMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
